@@ -1,0 +1,16 @@
+E:\visualstudio\problema info\playing card\playing card\bin\Debug\net5.0\playing card.exe
+E:\visualstudio\problema info\playing card\playing card\bin\Debug\net5.0\playing card.deps.json
+E:\visualstudio\problema info\playing card\playing card\bin\Debug\net5.0\playing card.runtimeconfig.json
+E:\visualstudio\problema info\playing card\playing card\bin\Debug\net5.0\playing card.runtimeconfig.dev.json
+E:\visualstudio\problema info\playing card\playing card\bin\Debug\net5.0\playing card.dll
+E:\visualstudio\problema info\playing card\playing card\bin\Debug\net5.0\playing card.pdb
+E:\visualstudio\problema info\playing card\playing card\obj\Debug\net5.0\playing card.csproj.AssemblyReference.cache
+E:\visualstudio\problema info\playing card\playing card\obj\Debug\net5.0\playing card.GeneratedMSBuildEditorConfig.editorconfig
+E:\visualstudio\problema info\playing card\playing card\obj\Debug\net5.0\playing card.AssemblyInfoInputs.cache
+E:\visualstudio\problema info\playing card\playing card\obj\Debug\net5.0\playing card.AssemblyInfo.cs
+E:\visualstudio\problema info\playing card\playing card\obj\Debug\net5.0\playing card.csproj.CoreCompileInputs.cache
+E:\visualstudio\problema info\playing card\playing card\obj\Debug\net5.0\playing card.dll
+E:\visualstudio\problema info\playing card\playing card\obj\Debug\net5.0\refint\playing card.dll
+E:\visualstudio\problema info\playing card\playing card\obj\Debug\net5.0\playing card.pdb
+E:\visualstudio\problema info\playing card\playing card\obj\Debug\net5.0\playing card.genruntimeconfig.cache
+E:\visualstudio\problema info\playing card\playing card\obj\Debug\net5.0\ref\playing card.dll
