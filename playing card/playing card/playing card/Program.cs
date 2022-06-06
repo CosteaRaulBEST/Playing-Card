@@ -13,11 +13,11 @@ namespace playing_card
         {
           
             Deck.FillDeck();
-            Deck.PrintDeck();
+            //Deck.PrintDeck();
             Deck.Shuffle();
             Deck.PrintDeck();
-            Card cardi = Deck.randomCard();
-            Console.WriteLine(cardi);
+            //Card cardi = Deck.randomCard();
+            //Console.WriteLine(cardi);
             Console.ReadLine();
         }
     }
